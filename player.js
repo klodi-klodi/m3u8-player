@@ -51,7 +51,7 @@ function vidFullscreen() {
     }
 }
 
-playM3u8('https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8');//window.location.href.split("#")[1])
+playM3u8('https://televiva.net:19360/abtv/abtv.m3u8');//window.location.href.split("#")[1])
 
 document.addEventListener("DOMContentLoaded", function() {
   //Guardar service worker
